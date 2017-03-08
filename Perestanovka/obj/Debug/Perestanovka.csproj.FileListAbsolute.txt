@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\Perestanovka\Perestanovka\bin\Debug\Perestanovka.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Perestanovka\Perestanovka\bin\Debug\Perestanovka.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Perestanovka\Perestanovka\bin\Debug\Perestanovka.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Perestanovka\Perestanovka\obj\Debug\Perestanovka.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Perestanovka\Perestanovka\obj\Debug\Perestanovka.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Perestanovka\Perestanovka\obj\Debug\Perestanovka.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Perestanovka\Perestanovka\obj\Debug\Perestanovka.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Perestanovka\Perestanovka\obj\Debug\Perestanovka.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Perestanovka\Perestanovka\obj\Debug\Perestanovka.pdb
